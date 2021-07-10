@@ -1,0 +1,2 @@
+Note: Use listView for large contents as it gives you the opportunity to scroll up and down
+Use MediaQuery for margin to create responsiveness for different divices
